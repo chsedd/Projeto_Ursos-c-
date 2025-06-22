@@ -6,4 +6,4 @@ Autores:
 
 Download: 
 
-/Users/htrxx19/Desktop/Projeto_Ursos/dist/publish.zip
+https://github.com/chsedd/Projeto_Ursos-c-/blob/main/Projeto_Ursos/dist/publish.zip
