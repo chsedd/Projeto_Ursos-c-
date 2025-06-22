@@ -5,4 +5,4 @@ Autores:
 Feito por Heitor Costa e Rodrigo Pimentel
 Download:
 
-https://github.com/chsedd/Projeto_Ursos-c-/blob/main/Projeto_Ursos/dist/publish.zip
+https://github.com/chsedd/Projeto_Ursos-c-/blob/main/dist/publish.zip
